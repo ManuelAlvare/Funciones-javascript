@@ -1,5 +1,7 @@
-function producto (x1,x2){
-    return x1 * x2;
+let nombre = "Manuel";
+function saludo(nombre){
+   
+    return "hola" + nombre + "¿Que tal estas?"
 }
-let resultado = producto (3,7);
-console.log("El resultado es", resultado)
+let resultado = saludo(Manuel)
+console.log(msn)
