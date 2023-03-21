@@ -5,5 +5,5 @@ function maximo(a,b) {
         return b;
     }
 }
-let resm = maximo(543,723);
-console.log('El mayor número entre el 543 y el 723 es el '+resm);
+let resm = maximo(4,7);
+console.log('El mayor número entre el 4 y el 7 es el '+resm);
